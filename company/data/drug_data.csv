@@ -1,0 +1,9 @@
+company_name,drug_name,approval_attempts,approval_status
+PharmaCorp,DrugA,3,approved
+PharmaCorp,DrugB,2,approved
+HealthMed,DrugC,1,approved
+HealthMed,DrugD,4,approved
+PharmaCorp,DrugE,1,approved
+PharmaCorp,DrugF,5,rejected
+BioLife,DrugG,3,rejected
+BioLife,DrugH,2,approved
